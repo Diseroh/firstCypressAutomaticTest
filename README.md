@@ -1,5 +1,7 @@
 Jest to mój pierwszy test automatyczny przy użyciu narzędzia cypress. 
 
+Test znajduje się w katalogu: \tests\cypress\e2e
+
 tutorial: 
 https://www.youtube.com/watch?v=V-uIaI-JoH0&ab_channel=Jakzacz%C4%85%C4%87programowa%C4%87%3F
 
