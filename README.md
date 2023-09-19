@@ -1,7 +1,16 @@
-# Testy E2E w Cypress
-Jest to repozytorium, którego możesz użyć jeśli chcesz pisać test E2E ze mną. Wystarczy, że sklonujesz je na swój prywatny komputer. 
+Jest to mój pierwszy test automatyczny przy użyciu narzędzia cypress. 
 
-Wszystkie kroki do napisania testu opisuję w tym wideo - https://youtu.be/V-uIaI-JoH0
+tutorial: 
+https://www.youtube.com/watch?v=V-uIaI-JoH0&ab_channel=Jakzacz%C4%85%C4%87programowa%C4%87%3F
+
+
+
+
+
+
+
+
+
 
 ## Front-end
 Aby uruchomić front-end wejdź (używając Twojego ulubionego terminala) do katalogu **front-end** i wpisz: 
@@ -17,4 +26,3 @@ W nowym oknie terminala przejdź do katalogu **back-end** i wpisz:
 npm install
 npm run start
 ```
-I to wszystko :)
